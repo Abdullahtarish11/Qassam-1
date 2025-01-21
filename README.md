@@ -1,8 +1,1 @@
-Mobile&pervasive.com
-for (var student in students) {
-    print('الاسم: ${student['الاسم']}');
-    print('رقم القيد: ${student['رقم القيد']}');
-    print('مستوى الطلاب: ${student['مستوى الطلاب']}');
-    print('التخصص: ${student['التخصص']}');
-    print('--------------------------');
-  }
+
